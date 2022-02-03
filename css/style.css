@@ -1,0 +1,27 @@
+*{
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3 {
+    color: rgb(36, 52, 143);
+  }
+  
+  p {
+    color: gray;
+  }
+
+  ul {
+    border: 2px solid orange;
+    background-color: rgb(255, 232, 189);
+  }
+  
+  ol {
+    border: 2px solid purple;
+    background-color: rgb(255, 219, 255);
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
